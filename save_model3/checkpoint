@@ -1,0 +1,6 @@
+model_checkpoint_path: "location_ctpn-112518"
+all_model_checkpoint_paths: "location_ctpn-87514"
+all_model_checkpoint_paths: "location_ctpn-93765"
+all_model_checkpoint_paths: "location_ctpn-100016"
+all_model_checkpoint_paths: "location_ctpn-106267"
+all_model_checkpoint_paths: "location_ctpn-112518"
